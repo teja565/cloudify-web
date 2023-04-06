@@ -1,2 +1,1 @@
-site is live on: 
-https://playful-baklava-230cc2.netlify.app/
+site is live on: https://cloudify-app-teja565.netlify.app/
